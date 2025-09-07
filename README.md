@@ -14,7 +14,7 @@
 ##
 
 <div>
- <a href="https://www.linkedin.com/in/juliana-fortunato-006b56190/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-moepoi-informational"></a>
+ <a href="https://www.linkedin.com/in/juliana-fortunato-006b56190/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn"></a>
 </div>
 
 ![Snake animation](https://github.com/JulianaFortunato/JulianaFortunato/blob/output/github-contribution-grid-snake.svg)
