@@ -1,10 +1,5 @@
 ## Hey! Sou Juliana Fortunato 
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JulianaFortunato&count_private=true&show_icons=true&theme=discord_old_blurple" />
-</a>
-
 <div style='display: inline-block' ><br>
  <img align="center" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
  <img align="center" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/> 
